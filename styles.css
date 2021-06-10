@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(38, 40, 41);
+}
+
+div img {
+    margin-top: .5em;
+    margin-bottom: .5em;
+    margin-left: 1em;
+    margin-right: .5em;
+}
+
+h1 {
+    color: white
+}
